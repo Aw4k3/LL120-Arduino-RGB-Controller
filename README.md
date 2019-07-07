@@ -11,6 +11,11 @@ If you want to run 2 or more fans then you will need to power the LEDs another w
 
 The pin order of the RGB connect on the fan with the flat side facing up is [Ground | Data in | Data out | 5v] (Inversed if you have to clip facing up)
 
+<p>
+  <img src="https://github.com/Aw4k3/LL120-Arduino-without-Commander-Pro-or-Lighting-Hub/blob/master/LL120%20Fan%20LED%20order.png" width="400" height="400">
+  <img src="https://github.com/Aw4k3/LL120-Arduino-without-Commander-Pro-or-Lighting-Hub/blob/master/LL120%20RGB%20Connecter%20Pin%20order.png" width="400" height="287">
+</p>
+
 # Getting the RGB to work
 To get this working you will need to first connect your arduino board to your fans RGB wire
 With the flat side of the connect facing up, the pin order is [Ground | Data in | Data out | 5v]
