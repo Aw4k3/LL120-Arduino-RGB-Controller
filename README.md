@@ -45,4 +45,4 @@ void loop() {
   FastLED.show();
 }
 ```
-Uncomment #define FASTLED_ESP8266_RAW_PIN_ORDER if you get an pin error when using a NodeMCU board
+Uncomment #define FASTLED_ESP8266_RAW_PIN_ORDER if you get a pin error when using a NodeMCU board
