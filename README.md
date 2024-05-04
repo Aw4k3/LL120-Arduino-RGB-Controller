@@ -1,12 +1,17 @@
 # LL120 Arduino without Commander Pro or Lighting Hub
 
 # Fan details
-1x LL Fan => 16x Leds => 12x Outer LEDs + 4x Inner LEDs
-They are WS2811 LEDs
-Colour order: GRB
-At least USB 3.0 is recommended to meet power requirements. You may also fine alternative power solutions.
-
-RGB connector pin order: [Ground | Data in | Data out | 5v] (Assuming it's facing flat side up)
+<p>
+  1x LL Fan => 16x Leds => 12x Outer LEDs + 4x Inner LEDs
+  </br>
+  They are WS2811 LEDs
+  </br>
+  Colour order: GRB
+  </br>
+  At least USB 3.0 is recommended to meet power requirements. You may also fine alternative power solutions.
+  </br>
+  RGB connector pin order: [Ground | Data in | Data out | 5v] (Assuming it's facing flat side up)
+</p>
 
 <p>
   <img src="https://github.com/Aw4k3/LL120-Arduino-without-Commander-Pro-or-Lighting-Hub/blob/master/LL120%20Fan%20LED%20order.png" width="400" height="400">
